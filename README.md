@@ -161,4 +161,5 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 ## Team
 
 * **Curriculum Maintainer**: [Waciuma Wanjohi](https://github.com/waciumawanjohi)
+* **Contributors**: [Engr. Md Shagor](https://github.com/mdshagor369)
 * **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
